@@ -1,0 +1,9 @@
+.venv/
+venv/
+.data/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+examples/generated/
+selftest_output.log
+uvicorn_selftest.log

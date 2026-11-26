@@ -1,0 +1,61 @@
+tests/test_api.py::test_health PASSED
+tests/test_api.py::test_silence_multipart_below_standard PASSED
+tests/test_api.py::test_json_base64_endpoint_and_aliases PASSED
+tests/test_api.py::test_pending_verification_spread PASSED
+tests/test_api.py::test_verdict_three_ways PASSED
+tests/test_api.py::test_order_and_threshold_validation PASSED
+tests/test_api.py::test_bad_wav_formats PASSED
+tests/test_api.py::test_pulse_validation PASSED
+tests/test_api.py::test_infeasible_total_revolutions_on_create PASSED
+tests/test_api.py::test_lock_change_collapses_bounds_and_revisions PASSED
+tests/test_api.py::test_rejected_lock_update_keeps_original_report PASSED
+tests/test_api.py::test_lock_alias_formats_and_404 PASSED
+tests/test_api.py::test_unsupported_media_type PASSED
+tests/test_api.py::test_typed_upload_endpoint PASSED
+tests/test_api.py::test_openapi_schema_available PASSED
+tests/test_api.py::test_dataurl_percent_rps_and_comma_pulses PASSED
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_dp_matches_brute_force_random
+tests/test_solver.py::test_infeasible_total_revolutions PASSED
+tests/test_solver.py::test_locks_force_too_many_double_revs PASSED
+tests/test_solver.py::test_speed_limit_infeasible_has_minimax_diagnostic PASSED
+tests/test_solver.py::test_max_100_intervals_performance PASSED
+======================== 60 passed, 1 warning in 2.02s =========================
